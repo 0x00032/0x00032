@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Brady - aka 0x00032] 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/bmiller4579?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<!--
-**0x00032/0x00032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Kid, Developer, and Learner!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listen to music, and hang with friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Brady's github stats](https://github-readme-stats.vercel.app/api?username=0x00032)](https://github.com/anuraghazra/github-readme-stats)
