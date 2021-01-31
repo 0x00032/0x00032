@@ -7,4 +7,4 @@
 
 
 
-[![Brady's github stats](https://github-readme-stats.vercel.app/api?username=0x00032)](https://github.com/anuraghazra/github-readme-stats)
+[![Brady's github stats](https://github-readme-stats.vercel.app/api?username=0x00032&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
