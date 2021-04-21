@@ -1,15 +1,14 @@
-### Hi there, I'm Brady - aka 0x00032 👋
+<h2 align="center">Brady's Stats</h2>
+<a href="https://github.com/0x00032">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=0x00032" alt="Profile Views Count">
+  </p>
+</a>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to music, and hang with friends.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=0x00032&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/319516807297892371?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/319516807297892371)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/319516807297892371)
-![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/319516807297892371)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/319516807297892371)](https://dev.discordprofiles.me/openspotify/319516807297892371)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=0x00032)
-
-[![Brady's github stats](https://github-readme-stats.vercel.app/api?username=0x00032&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/319516807297892371.png" />
+</p>
